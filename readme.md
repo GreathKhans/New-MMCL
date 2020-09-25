@@ -13,7 +13,7 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Lukas Vilim
-2.
+2. Claudia Barillova
 <<<<<<< HEAD
 3. Martin Kristak
 4.
