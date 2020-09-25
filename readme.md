@@ -14,5 +14,5 @@ Nas tim tvoria clenovia:
 
 1. Lukas Vilim
 2.
-3.
+3. Martin Kristak
 4.
