@@ -14,5 +14,10 @@ Nas tim tvoria clenovia:
 
 1. Lukas Vilim
 2.
+<<<<<<< HEAD
 3. Martin Kristak
 4.
+=======
+3.
+4.Marek Žitnik
+>>>>>>> ee8002ed3b2ececf02071897edb415a07114ae5c
